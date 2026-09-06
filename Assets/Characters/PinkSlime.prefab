@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &5852373179085430634
+--- !u!1001 &5989708233722481060
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -50,12 +50,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3947418407789935965, guid: 23aaf195547d5e01dbe2515c6ed8f6ae, type: 3}
       propertyPath: m_Name
-      value: Red Slime
+      value: PinkSlime
+      objectReference: {fileID: 0}
+    - target: {fileID: 5087087010922935053, guid: 23aaf195547d5e01dbe2515c6ed8f6ae, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 262d36416d9a1a765b37180041d2c414, type: 2}
+    - target: {fileID: 5927298652509858880, guid: 23aaf195547d5e01dbe2515c6ed8f6ae, type: 3}
+      propertyPath: gooGenerated
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7372104015706190538, guid: 23aaf195547d5e01dbe2515c6ed8f6ae, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 8623458573684838780, guid: 2711e23b14a35d815b63b42f1268a68d, type: 3}
+      objectReference: {fileID: 4068390250358317898, guid: 2711e23b14a35d815b63b42f1268a68d, type: 3}
     - target: {fileID: 7372104015706190538, guid: 23aaf195547d5e01dbe2515c6ed8f6ae, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1

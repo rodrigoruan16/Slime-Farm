@@ -68,12 +68,17 @@ public class BuyButton : MonoBehaviour
 
             if (parent.tag.Contains("Slime"))
             {
-
+                gm.BuySlime(parent.tag);
             }
             else if (parent.tag == "PowerClick")
             {
                 gm.updatePowerClick();
                 buttonText.text = (itemPrice * 4).ToString() + " Goo";
+            }
+            else if (parent.tag == "AutoClick")
+            {
+                gm.updateAutoClick();
+                buttonText.text = (itemPrice * 10).ToString() + " Goo";
             }
 
             UpdateItemPrice();

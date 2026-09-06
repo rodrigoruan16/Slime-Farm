@@ -8,15 +8,23 @@ public class SlimeScript : MonoBehaviour
     private bool right_direction = true;
     private GameManager gm;
 
+    [SerializeField]
+    private long gooGenerated;
+
     void Awake()
     {
         _rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
+    public long GetGooGenerated()
+    {
+        return gooGenerated;
+    }
+
     private void OnMouseDown()
     {
-        gm.AddMoney(gm.GetMoneyPerClick(100));
+        gm.AddMoney(gm.GetMoneyPerClick(gooGenerated));
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -27,22 +35,19 @@ public class SlimeScript : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        right_direction = !right_direction;
+        if (collision.transform.tag == "Wall")
+            right_direction = !right_direction;
     }
 
     void Action()
     {
         spriteRenderer.flipX = !right_direction;
-        _rb.linearVelocity = new Vector2((right_direction ? 1 : -1) * 1.1f, _rb.linearVelocity.y);
+        _rb.linearVelocity = new Vector2((right_direction ? 1 : -1) * Random.Range(1f, 2f), _rb.linearVelocity.y);
     }
 
     void FixedUpdate()
     {
-        if (Time.time - last_move >= 0.2f)
-        {
-            Action();
-            last_move = Time.time;
-        }
+        Action();
     }
 
     // Update is called once per frame

@@ -585,7 +585,7 @@ GameObject:
   - component: {fileID: 87181877}
   m_Layer: 0
   m_Name: LeftWall
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4371,7 +4371,7 @@ PrefabInstance:
       objectReference: {fileID: -7479572275065946076, guid: 382a339ae3e38013890a2fb1a449e704, type: 3}
     - target: {fileID: 7029723592395054896, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_text
-      value: 1000 Goo
+      value: 400 Goo
       objectReference: {fileID: 0}
     - target: {fileID: 7863202394383382404, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_Name
@@ -6061,7 +6061,7 @@ GameObject:
   - component: {fileID: 960165311}
   m_Layer: 0
   m_Name: RightWall
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6121,7 +6121,7 @@ Transform:
   m_GameObject: {fileID: 960165310}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.32, y: -0.42609, z: 0}
+  m_LocalPosition: {x: 9.22, y: -0.42609, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7348,6 +7348,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5415666e8ea0fd9a8a22da6a9501859f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
+  slimePrefabsList:
+  - {fileID: 8220167892675659843, guid: 86fb110296c16da9d95e0a07ee7ba594, type: 3}
+  - {fileID: 3025912734899068533, guid: 20cd112d984e7d2bfa0f61dd551d96da, type: 3}
+  - {fileID: 7405786665482983622, guid: 206197930d20a0ed591c93c85ac47f61, type: 3}
+  - {fileID: 8589975928493701163, guid: e51a978916a5d9b9abd084a0c5e104ae, type: 3}
+  - {fileID: 7338540585280271609, guid: 83171a8fb574f1fcfbd03d8f8c39a191, type: 3}
+  - {fileID: 7493921913425699383, guid: ead86faf08718d1b5b74d12af4ebca7a, type: 3}
 --- !u!114 &1116163016
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8243,8 +8250,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: -2413106745932530717, guid: 206197930d20a0ed591c93c85ac47f61, type: 3}
+    m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -12721,7 +12727,7 @@ PrefabInstance:
       objectReference: {fileID: 8784844329768798039, guid: 14e8fd719977c28118cd0d7d695ef932, type: 3}
     - target: {fileID: 7029723592395054896, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_text
-      value: 200 Goo
+      value: 100 Goo
       objectReference: {fileID: 0}
     - target: {fileID: 7863202394383382404, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_Name

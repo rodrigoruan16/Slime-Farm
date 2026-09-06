@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.Numerics;
 using TMPro;
 using UnityEngine;
@@ -5,12 +6,16 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
-    private float lastMoneyUpdate;
+    private float lastUpdate;
     private GameObject slimes;
     private BigInteger money = 0;
     private BigInteger moneyPerClick = 1;
     private BigInteger powerClick = 1;
     private BigInteger autoClickQuantity = 0;
+    private Dictionary<string, GameObject> slimePrefabs;
+
+    [SerializeField]
+    private GameObject[] slimePrefabsList;
 
     TMP_Text moneyText;
     void Awake()
@@ -18,11 +23,28 @@ public class GameManager : MonoBehaviour
         Instance = this;
         slimes = GameObject.FindGameObjectWithTag("Slimes");
         moneyText = GameObject.FindGameObjectWithTag("MoneyText").GetComponent<TMP_Text>();
+
+        slimePrefabs = new Dictionary<string, GameObject>();
+        foreach (GameObject slime in slimePrefabsList)
+        {
+            slimePrefabs.Add(slime.name + "Item", slime);
+        }
     }
 
-    public BigInteger GetMoneyPerClick(int baseValue)
+    public void BuySlime(string slimeType)
+    {
+        print(slimeType);
+        Instantiate(slimePrefabs[slimeType], slimes.transform);
+    }
+
+    public BigInteger GetMoneyPerClick(long baseValue)
     {
         return baseValue * powerClick;
+    }
+
+    public void updateAutoClick()
+    {
+        autoClickQuantity++;
     }
 
     public void updatePowerClick()
@@ -55,11 +77,21 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         // Do it when buy auto farm
-        // if (Time.time - lastMoneyUpdate >= 1f)
-        // {
-        //     money += slimes.transform.childCount;
-        //     lastMoneyUpdate = Time.time;
-        // }
+        if (autoClickQuantity > 0)
+        {
+            if (Time.time - lastUpdate >= 1f)
+            {
+                foreach (Transform child in slimes.transform)
+                {
+                    SlimeScript slime = child.GetComponent<SlimeScript>();
+                    money += autoClickQuantity * slime.GetGooGenerated();
+                }
+
+                lastUpdate = Time.time;
+            }
+        }
+
+
         moneyText.text = "Goo: " + money.ToString();
     }
 }

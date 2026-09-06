@@ -50,7 +50,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3947418407789935965, guid: 23aaf195547d5e01dbe2515c6ed8f6ae, type: 3}
       propertyPath: m_Name
-      value: Green Slime
+      value: GreenSlime
       objectReference: {fileID: 0}
     - target: {fileID: 5087087010922935053, guid: 23aaf195547d5e01dbe2515c6ed8f6ae, type: 3}
       propertyPath: m_Controller
@@ -74,6 +74,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8271767275156254654, guid: 23aaf195547d5e01dbe2515c6ed8f6ae, type: 3}
+    - {fileID: 5927298652509858880, guid: 23aaf195547d5e01dbe2515c6ed8f6ae, type: 3}
+    - {fileID: 5764010934647165802, guid: 23aaf195547d5e01dbe2515c6ed8f6ae, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
@@ -101,6 +103,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b281ec8c6b1c1b84aa02731181fb05b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SlimeScript
+  gooGenerated: 1
 --- !u!61 &-2413106745932530717
 BoxCollider2D:
   m_ObjectHideFlags: 0
