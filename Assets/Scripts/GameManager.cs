@@ -9,6 +9,9 @@ public class GameManager : MonoBehaviour
     private GameObject slimes;
     private BigInteger money = 0;
     private BigInteger moneyPerClick = 1;
+    private BigInteger powerClick = 1;
+    private BigInteger autoClickQuantity = 0;
+
     TMP_Text moneyText;
     void Awake()
     {
@@ -17,9 +20,24 @@ public class GameManager : MonoBehaviour
         moneyText = GameObject.FindGameObjectWithTag("MoneyText").GetComponent<TMP_Text>();
     }
 
-    public BigInteger GetMoneyPerClick()
+    public BigInteger GetMoneyPerClick(int baseValue)
     {
-        return moneyPerClick;
+        return baseValue * powerClick;
+    }
+
+    public void updatePowerClick()
+    {
+        powerClick *= 2;
+    }
+
+    public BigInteger GetTotalMoney()
+    {
+        return money;
+    }
+
+    public void RemoveMoney(BigInteger amount)
+    {
+        money -= amount;
     }
 
     public void AddMoney(BigInteger moneyPerClick)

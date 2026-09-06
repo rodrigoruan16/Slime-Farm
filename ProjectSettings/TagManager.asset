@@ -9,6 +9,14 @@ TagManager:
   - MoneyText
   - Shop
   - ShopItem
+  - PowerClick
+  - AutoClick
+  - GreenSlimeItem
+  - BlueSlimeItem
+  - RedSlimeItem
+  - PinkSlimeItem
+  - GraySlimeItem
+  - ShopListContent
   layers:
   - Default
   - TransparentFX

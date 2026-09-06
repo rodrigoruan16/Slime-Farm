@@ -1625,7 +1625,7 @@ MonoBehaviour:
   m_HorizontalScrollbar: {fileID: 0}
   m_VerticalScrollbar: {fileID: 837472117}
   m_HorizontalScrollbarVisibility: 2
-  m_VerticalScrollbarVisibility: 0
+  m_VerticalScrollbarVisibility: 1
   m_HorizontalScrollbarSpacing: -3
   m_VerticalScrollbarSpacing: -3
   m_OnValueChanged:
@@ -4363,7 +4363,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4633721774960848305, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_text
-      value: Auto Clique
+      value: Auto Clique 0
       objectReference: {fileID: 0}
     - target: {fileID: 5481992320900874125, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_Sprite
@@ -4376,6 +4376,10 @@ PrefabInstance:
     - target: {fileID: 7863202394383382404, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_Name
       value: AutoClicker
+      objectReference: {fileID: 0}
+    - target: {fileID: 7863202394383382404, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
+      propertyPath: m_TagString
+      value: AutoClick
       objectReference: {fileID: 0}
     - target: {fileID: 8657562937512649151, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_text
@@ -4996,6 +5000,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueSlime
       objectReference: {fileID: 0}
+    - target: {fileID: 7863202394383382404, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
+      propertyPath: m_TagString
+      value: BlueSlimeItem
+      objectReference: {fileID: 0}
     - target: {fileID: 8657562937512649151, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_text
       value: "O slime mais comum de todos. Simples, amig\xE1vel e f\xE1cil de cuidar.
@@ -5174,7 +5182,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1901097248}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.366804
+  m_Size: 0.3672
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -5472,7 +5480,7 @@ GameObject:
   - component: {fileID: 865308416}
   m_Layer: 5
   m_Name: Content
-  m_TagString: Untagged
+  m_TagString: ShopListContent
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5499,9 +5507,9 @@ RectTransform:
   m_Father: {fileID: 2146656386}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.00024414062, y: 0}
-  m_SizeDelta: {x: -0.00048828125, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 902.99976, y: 0}
+  m_SizeDelta: {x: 1805.9995, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &865308416
 MonoBehaviour:
@@ -5531,7 +5539,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.VerticalLayoutGroup
   m_Padding:
     m_Left: 0
-    m_Right: 0
+    m_Right: 300
     m_Top: 200
     m_Bottom: 200
   m_ChildAlignment: 1
@@ -5941,6 +5949,10 @@ PrefabInstance:
     - target: {fileID: 7863202394383382404, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_Name
       value: PinkSlime
+      objectReference: {fileID: 0}
+    - target: {fileID: 7863202394383382404, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
+      propertyPath: m_TagString
+      value: PinkSlimeItem
       objectReference: {fileID: 0}
     - target: {fileID: 8657562937512649151, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_text
@@ -8936,6 +8948,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GreenSlime
       objectReference: {fileID: 0}
+    - target: {fileID: 7863202394383382404, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
+      propertyPath: m_TagString
+      value: GreenSlimeItem
+      objectReference: {fileID: 0}
     - target: {fileID: 8657562937512649151, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_text
       value: "O slime mais comum de todos. Simples, amig\xE1vel e f\xE1cil de cuidar.
@@ -10082,6 +10098,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedSlime
       objectReference: {fileID: 0}
+    - target: {fileID: 7863202394383382404, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
+      propertyPath: m_TagString
+      value: RedSlimeItem
+      objectReference: {fileID: 0}
     - target: {fileID: 8657562937512649151, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_text
       value: "O slime mais comum de todos. Simples, amig\xE1vel e f\xE1cil de cuidar.
@@ -11003,6 +11023,10 @@ PrefabInstance:
     - target: {fileID: 7863202394383382404, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_Name
       value: GraySlime
+      objectReference: {fileID: 0}
+    - target: {fileID: 7863202394383382404, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
+      propertyPath: m_TagString
+      value: GraySlimeItem
       objectReference: {fileID: 0}
     - target: {fileID: 8657562937512649151, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_text
@@ -12689,7 +12713,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4633721774960848305, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_text
-      value: Power Clique
+      value: Power Clique 0
       objectReference: {fileID: 0}
     - target: {fileID: 5481992320900874125, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_Sprite
@@ -12703,9 +12727,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: PowerClick
       objectReference: {fileID: 0}
+    - target: {fileID: 7863202394383382404, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
+      propertyPath: m_TagString
+      value: PowerClick
+      objectReference: {fileID: 0}
     - target: {fileID: 8657562937512649151, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_text
-      value: Aumenta em 1.5x o Goo gerado por clique.
+      value: Aumenta em 2x o Goo gerado por clique.
       objectReference: {fileID: 0}
     - target: {fileID: 9165998012183837083, guid: 6a289a395718a5d1986a251f55f9d97d, type: 3}
       propertyPath: m_Pivot.x
@@ -14086,10 +14114,10 @@ RectTransform:
   - {fileID: 865308415}
   m_Father: {fileID: 321467204}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -17, y: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -912, y: 459}
+  m_SizeDelta: {x: 1806, y: 918}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &2146656387
 MonoBehaviour:

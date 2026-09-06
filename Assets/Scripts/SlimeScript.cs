@@ -12,23 +12,21 @@ public class SlimeScript : MonoBehaviour
     {
         _rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
-        gm = GameManager.Instance;
     }
 
     private void OnMouseDown()
     {
-        gm.AddMoney(gm.GetMoneyPerClick());
+        gm.AddMoney(gm.GetMoneyPerClick(100));
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        gm = GameManager.Instance;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        print("TEST");
         right_direction = !right_direction;
     }
 
