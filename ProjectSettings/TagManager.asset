@@ -2,8 +2,12 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Cloud
+  - Slimes
+  - MoneyText
+  - Shop
   layers:
   - Default
   - TransparentFX
@@ -11,8 +15,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Slime
+  - Floor
   - 
   - 
   - 
@@ -41,3 +45,27 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Sky
+    uniqueID: 3651933327
+    locked: 0
+  - name: Cloud
+    uniqueID: 1794486759
+    locked: 0
+  - name: Mountain
+    uniqueID: 2920262957
+    locked: 0
+  - name: Grass
+    uniqueID: 339109247
+    locked: 0
+  - name: Floor
+    uniqueID: 1016005913
+    locked: 0
+  - name: Slime
+    uniqueID: 504415889
+    locked: 0
+  - name: Shop
+    uniqueID: 1054851997
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
