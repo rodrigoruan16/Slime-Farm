@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour
     private float lastUpdate;
     private GameObject slimes;
     private BigInteger money = 0;
-    private BigInteger moneyPerClick = 1;
+    private BigInteger maxSlimes = 10;
     private BigInteger powerClick = 1;
     private BigInteger autoClickQuantity = 0;
     private Dictionary<string, GameObject> slimePrefabs;
@@ -18,11 +18,13 @@ public class GameManager : MonoBehaviour
     private GameObject[] slimePrefabsList;
 
     TMP_Text moneyText;
+    TMP_Text quantitySlimesText;
     void Awake()
     {
         Instance = this;
         slimes = GameObject.FindGameObjectWithTag("Slimes");
         moneyText = GameObject.FindGameObjectWithTag("MoneyText").GetComponent<TMP_Text>();
+        quantitySlimesText = GameObject.FindGameObjectWithTag("QuantitySlimeText").GetComponent<TMP_Text>();
 
         slimePrefabs = new Dictionary<string, GameObject>();
         foreach (GameObject slime in slimePrefabsList)
@@ -31,15 +33,31 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    public BigInteger GetRemainingSlot()
+    {
+        return maxSlimes - slimes.transform.childCount;
+    }
+
+    public void IncreaseSlot()
+    {
+        maxSlimes += 10;
+        UpdateSlimeQuantityText();
+    }
+
+    private void UpdateSlimeQuantityText()
+    {
+        quantitySlimesText.text = "Slimes: " + slimes.transform.childCount + " / " + maxSlimes;
+    }
+
     public void BuySlime(string slimeType)
     {
-        print(slimeType);
         Instantiate(slimePrefabs[slimeType], slimes.transform);
+        UpdateSlimeQuantityText();
     }
 
     public BigInteger GetMoneyPerClick(long baseValue)
     {
-        return baseValue * powerClick;
+        return baseValue * powerClick + 10000000000000000000L;
     }
 
     public void updateAutoClick()

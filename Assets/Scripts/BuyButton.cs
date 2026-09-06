@@ -80,6 +80,11 @@ public class BuyButton : MonoBehaviour
                 gm.updateAutoClick();
                 buttonText.text = (itemPrice * 10).ToString() + " Goo";
             }
+            else if (parent.tag == "Slot")
+            {
+                gm.IncreaseSlot();
+                buttonText.text = (itemPrice * 2).ToString() + " Goo";
+            }
 
             UpdateItemPrice();
             UpdateItemLevel();
@@ -88,6 +93,13 @@ public class BuyButton : MonoBehaviour
 
     public void SetActive(bool active)
     {
+        if (itemName.text.Contains("Slime") && gm.GetRemainingSlot() <= 0)
+        {
+            button.interactable = false;
+            background.color = inactiveColor;
+            return;
+        }
+
         button.interactable = active && !bought;
         background.color = (active && !bought) ? activeColor : inactiveColor;
     }
