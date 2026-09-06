@@ -3,35 +3,32 @@ using UnityEngine.InputSystem;
 
 public class CursorScript : MonoBehaviour
 {
-    [SerializeField]
-    private Texture2D normalCursor;
+    [SerializeField] private Texture2D normalCursor;
+    [SerializeField] private Texture2D clickCursor;
 
-    [SerializeField]
-    private Texture2D clickCursor;
-
-    void Awake()
+    private void Awake()
     {
-        Cursor.SetCursor(normalCursor, Vector2.zero, CursorMode.Auto);
-    }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-
+        SetNormalCursor();
     }
 
-    public void OnClick()
+    private void Update()
     {
+        if (Mouse.current == null)
+            return;
+
         if (Mouse.current.leftButton.wasPressedThisFrame)
-            Cursor.SetCursor(clickCursor, Vector2.zero, CursorMode.Auto);
+        {
+            Cursor.SetCursor(clickCursor, Vector2.zero, CursorMode.ForceSoftware);
+        }
 
         if (Mouse.current.leftButton.wasReleasedThisFrame)
-            Cursor.SetCursor(normalCursor, Vector2.zero, CursorMode.Auto);
-
+        {
+            SetNormalCursor();
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    private void SetNormalCursor()
     {
-        OnClick();
+        Cursor.SetCursor(normalCursor, Vector2.zero, CursorMode.ForceSoftware);
     }
 }
