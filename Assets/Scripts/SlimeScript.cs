@@ -28,6 +28,7 @@ public class SlimeScript : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        print("TEST");
         right_direction = !right_direction;
     }
 

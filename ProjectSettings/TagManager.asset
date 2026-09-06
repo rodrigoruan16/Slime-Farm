@@ -8,6 +8,7 @@ TagManager:
   - Slimes
   - MoneyText
   - Shop
+  - ShopItem
   layers:
   - Default
   - TransparentFX
