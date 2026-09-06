@@ -8,6 +8,8 @@ public class SlimeScript : MonoBehaviour
     private bool right_direction = true;
     private GameManager gm;
 
+    private AudioSource audioSource;
+
     [SerializeField]
     private long gooGenerated;
 
@@ -15,6 +17,7 @@ public class SlimeScript : MonoBehaviour
     {
         _rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     public long GetGooGenerated()
@@ -25,6 +28,7 @@ public class SlimeScript : MonoBehaviour
     private void OnMouseDown()
     {
         gm.AddMoney(gm.GetMoneyPerClick(gooGenerated));
+        audioSource.Play();
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
