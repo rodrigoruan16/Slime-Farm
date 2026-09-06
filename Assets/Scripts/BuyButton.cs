@@ -17,10 +17,13 @@ public class BuyButton : MonoBehaviour
     private TMP_Text buttonText;
     private TMP_Text itemName;
 
+    private AudioSource audioSource;
+
     private void Awake()
     {
         button = GetComponent<Button>();
         background = GetComponent<Image>();
+        audioSource = transform.parent.GetComponent<AudioSource>();
 
         buttonText = button.transform
             .GetChild(0)
@@ -94,6 +97,7 @@ public class BuyButton : MonoBehaviour
 
             UpdateItemPrice();
             UpdateItemLevel();
+            audioSource.Play();
         }
     }
 
