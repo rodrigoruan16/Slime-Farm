@@ -14,6 +14,8 @@ public class GameManager : MonoBehaviour
     private BigInteger autoClickQuantity = 0;
     private Dictionary<string, GameObject> slimePrefabs;
 
+    private bool firstRareEgg = true;
+
     [SerializeField]
     private GameObject[] slimePrefabsList;
 
@@ -55,9 +57,22 @@ public class GameManager : MonoBehaviour
         UpdateSlimeQuantityText();
     }
 
+    public void OpenRareEgg()
+    {
+        if (firstRareEgg)
+        {
+            Instantiate(slimePrefabsList[0], slimes.transform);
+            firstRareEgg = false;
+            return;
+        }
+
+        int el = Random.Range(0, slimePrefabsList.Length);
+        Instantiate(slimePrefabsList[el], slimes.transform);
+    }
+
     public BigInteger GetMoneyPerClick(long baseValue)
     {
-        return baseValue * powerClick + 10000000000000000000L;
+        return baseValue * powerClick;
     }
 
     public void updateAutoClick()

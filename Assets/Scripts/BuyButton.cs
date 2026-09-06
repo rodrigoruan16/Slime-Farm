@@ -85,6 +85,11 @@ public class BuyButton : MonoBehaviour
                 gm.IncreaseSlot();
                 buttonText.text = (itemPrice * 2).ToString() + " Goo";
             }
+            else if (parent.tag == "RareEgg")
+            {
+                gm.OpenRareEgg();
+                buttonText.text = (itemPrice * 2).ToString() + " Goo";
+            }
 
             UpdateItemPrice();
             UpdateItemLevel();

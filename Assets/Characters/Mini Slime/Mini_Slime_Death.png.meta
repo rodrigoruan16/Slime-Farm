@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 6d4834de137cca7b7937d56860984097
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6519527966473337586
+    second: Mini_Slime_Death_0
+  - first:
+      213: -5032730536189953228
+    second: Mini_Slime_Death_1
+  - first:
+      213: 5513315329531644125
+    second: Mini_Slime_Death_2
+  - first:
+      213: 9053041688679476690
+    second: Mini_Slime_Death_3
+  - first:
+      213: 7550376867225104334
+    second: Mini_Slime_Death_4
+  - first:
+      213: 7350031446469882286
+    second: Mini_Slime_Death_5
+  - first:
+      213: -8951140416807820341
+    second: Mini_Slime_Death_6
+  - first:
+      213: 3988591522745592220
+    second: Mini_Slime_Death_7
+  - first:
+      213: -8264782753510859740
+    second: Mini_Slime_Death_8
+  - first:
+      213: -6756336519305840578
+    second: Mini_Slime_Death_9
+  - first:
+      213: -5431061903271871460
+    second: Mini_Slime_Death_10
+  - first:
+      213: -5760327712222169666
+    second: Mini_Slime_Death_11
+  - first:
+      213: 5595565660262429012
+    second: Mini_Slime_Death_12
+  - first:
+      213: -1832910434521846909
+    second: Mini_Slime_Death_13
+  - first:
+      213: -4592713497038022364
+    second: Mini_Slime_Death_14
+  - first:
+      213: 7009369201905167077
+    second: Mini_Slime_Death_15
+  - first:
+      213: -3677503726000328311
+    second: Mini_Slime_Death_16
+  - first:
+      213: 1407068096791133101
+    second: Mini_Slime_Death_17
+  - first:
+      213: 6557731651508651794
+    second: Mini_Slime_Death_18
+  - first:
+      213: 7579729386962114586
+    second: Mini_Slime_Death_19
+  - first:
+      213: 2953456601696771671
+    second: Mini_Slime_Death_20
+  - first:
+      213: -127634781765369181
+    second: Mini_Slime_Death_21
+  - first:
+      213: 6483955902746412295
+    second: Mini_Slime_Death_22
+  - first:
+      213: -2810317734431299470
+    second: Mini_Slime_Death_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mini_Slime_Death_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05c12f3bdbf585a0800000000000000
+      internalID: -6519527966473337586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bf22ced36282ab0800000000000000
+      internalID: -5032730536189953228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 14
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd80377d41b338c40800000000000000
+      internalID: 5513315329531644125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddea86637dd2ad70800000000000000
+      internalID: 9053041688679476690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 18
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf6743d1c358c860800000000000000
+      internalID: 7550376867225104334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 23
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1b9ce88ae800660800000000000000
+      internalID: 7350031446469882286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 18
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc32781573927c380800000000000000
+      internalID: -8951140416807820341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 22
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99a2638bd25a5730800000000000000
+      internalID: 3988591522745592220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 15
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cd537dfd79d4d80800000000000000
+      internalID: -8264782753510859740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 19
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38b6c77bbbac32a0800000000000000
+      internalID: -6756336519305840578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cb25659fdf0a4b0800000000000000
+      internalID: -5431061903271871460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5b82b17743f00b0800000000000000
+      internalID: -5760327712222169666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 8
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451f059425177ad40800000000000000
+      internalID: 5595565660262429012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38be735cba13096e0800000000000000
+      internalID: -1832910434521846909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42918ed58676340c0800000000000000
+      internalID: -4592713497038022364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_15
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eaee13e628464160800000000000000
+      internalID: 7009369201905167077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981339f68d1e6fcc0800000000000000
+      internalID: -3677503726000328311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab3504aaf8e68310800000000000000
+      internalID: 1407068096791133101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2174284513eb10b50800000000000000
+      internalID: 6557731651508651794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a185773e7bb903960800000000000000
+      internalID: 7579729386962114586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e1ba39129ccf820800000000000000
+      internalID: 2953456601696771671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a204eb97dc8a3ef0800000000000000
+      internalID: -127634781765369181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7054f724a83abf950800000000000000
+      internalID: 6483955902746412295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_Slime_Death_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278ed3509eebff8d0800000000000000
+      internalID: -2810317734431299470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mini_Slime_Death_0: -6519527966473337586
+      Mini_Slime_Death_1: -5032730536189953228
+      Mini_Slime_Death_10: -5431061903271871460
+      Mini_Slime_Death_11: -5760327712222169666
+      Mini_Slime_Death_12: 5595565660262429012
+      Mini_Slime_Death_13: -1832910434521846909
+      Mini_Slime_Death_14: -4592713497038022364
+      Mini_Slime_Death_15: 7009369201905167077
+      Mini_Slime_Death_16: -3677503726000328311
+      Mini_Slime_Death_17: 1407068096791133101
+      Mini_Slime_Death_18: 6557731651508651794
+      Mini_Slime_Death_19: 7579729386962114586
+      Mini_Slime_Death_2: 5513315329531644125
+      Mini_Slime_Death_20: 2953456601696771671
+      Mini_Slime_Death_21: -127634781765369181
+      Mini_Slime_Death_22: 6483955902746412295
+      Mini_Slime_Death_23: -2810317734431299470
+      Mini_Slime_Death_3: 9053041688679476690
+      Mini_Slime_Death_4: 7550376867225104334
+      Mini_Slime_Death_5: 7350031446469882286
+      Mini_Slime_Death_6: -8951140416807820341
+      Mini_Slime_Death_7: 3988591522745592220
+      Mini_Slime_Death_8: -8264782753510859740
+      Mini_Slime_Death_9: -6756336519305840578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

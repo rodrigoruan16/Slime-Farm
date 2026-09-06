@@ -20,6 +20,7 @@ TagManager:
   - Wall
   - Slot
   - QuantitySlimeText
+  - RareEgg
   layers:
   - Default
   - TransparentFX
