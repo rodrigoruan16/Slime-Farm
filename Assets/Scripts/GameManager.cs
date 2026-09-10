@@ -68,11 +68,12 @@ public class GameManager : MonoBehaviour
 
         int el = Random.Range(0, slimePrefabsList.Length);
         Instantiate(slimePrefabsList[el], slimes.transform);
+        UpdateSlimeQuantityText();
     }
 
     public BigInteger GetMoneyPerClick(long baseValue)
     {
-        return baseValue * powerClick + 200;
+        return baseValue * powerClick + 10000000000000000000;
     }
 
     public void updateAutoClick()
