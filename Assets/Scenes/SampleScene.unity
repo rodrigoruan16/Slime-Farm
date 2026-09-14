@@ -5298,7 +5298,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Coquistas
+  m_text: Conquistas
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0df3b7a5ae871db3b93a4e9679412493, type: 2}
   m_sharedMaterial: {fileID: 6847862976817958824, guid: 0df3b7a5ae871db3b93a4e9679412493, type: 2}
@@ -5364,7 +5364,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -147.9629, y: 0, z: -122.33326, w: 0}
+  m_margin: {x: -147.9629, y: 0, z: -190.36647, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
