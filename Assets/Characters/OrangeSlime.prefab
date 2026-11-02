@@ -56,6 +56,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: e14e7698875f2a8dd9a8dee5f3b621f0, type: 2}
+    - target: {fileID: 5927298652509858880, guid: 23aaf195547d5e01dbe2515c6ed8f6ae, type: 3}
+      propertyPath: gooGenerated
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 7372104015706190538, guid: 23aaf195547d5e01dbe2515c6ed8f6ae, type: 3}
       propertyPath: m_Sprite
       value: 

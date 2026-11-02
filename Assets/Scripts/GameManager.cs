@@ -73,7 +73,8 @@ public class GameManager : MonoBehaviour
 
     public BigInteger GetMoneyPerClick(long baseValue)
     {
-        return baseValue * powerClick + 10000000000000000000;
+        // return baseValue * powerClick + 2;
+        return baseValue * powerClick + 2;
     }
 
     public void updateAutoClick()

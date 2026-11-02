@@ -1,0 +1,5525 @@
+fileFormatVersion: 2
+guid: 9173a6c8098d21b7e81d1fc331d02ad2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3343558605325286824
+    second: LostLamb_SpriteSheet_0
+  - first:
+      213: 6900604163895522617
+    second: LostLamb_SpriteSheet_1
+  - first:
+      213: 3951761626724541344
+    second: LostLamb_SpriteSheet_2
+  - first:
+      213: -410262082050376822
+    second: LostLamb_SpriteSheet_3
+  - first:
+      213: -3741960283196742589
+    second: LostLamb_SpriteSheet_4
+  - first:
+      213: -1255422213871902398
+    second: LostLamb_SpriteSheet_5
+  - first:
+      213: -3033757318734354465
+    second: LostLamb_SpriteSheet_6
+  - first:
+      213: -6058055709834855043
+    second: LostLamb_SpriteSheet_7
+  - first:
+      213: 3309835175849216982
+    second: LostLamb_SpriteSheet_8
+  - first:
+      213: 7868485683112144261
+    second: LostLamb_SpriteSheet_9
+  - first:
+      213: -1918570614444032401
+    second: LostLamb_SpriteSheet_10
+  - first:
+      213: -7000337132954356665
+    second: LostLamb_SpriteSheet_11
+  - first:
+      213: -7474581374571342942
+    second: LostLamb_SpriteSheet_12
+  - first:
+      213: 3236157294109741697
+    second: LostLamb_SpriteSheet_13
+  - first:
+      213: 6566412759812073173
+    second: LostLamb_SpriteSheet_14
+  - first:
+      213: 2525898738966614182
+    second: LostLamb_SpriteSheet_15
+  - first:
+      213: -4262353212947065000
+    second: LostLamb_SpriteSheet_16
+  - first:
+      213: 6935442861665012606
+    second: LostLamb_SpriteSheet_17
+  - first:
+      213: 5421844696651404732
+    second: LostLamb_SpriteSheet_18
+  - first:
+      213: 2752181666582671463
+    second: LostLamb_SpriteSheet_19
+  - first:
+      213: -2085070919645840977
+    second: LostLamb_SpriteSheet_20
+  - first:
+      213: -889387297931789965
+    second: LostLamb_SpriteSheet_21
+  - first:
+      213: 4585429269329822165
+    second: LostLamb_SpriteSheet_22
+  - first:
+      213: 4566845116905875057
+    second: LostLamb_SpriteSheet_23
+  - first:
+      213: -811793695379026590
+    second: LostLamb_SpriteSheet_24
+  - first:
+      213: -1058218203759889915
+    second: LostLamb_SpriteSheet_25
+  - first:
+      213: 5930923429438363402
+    second: LostLamb_SpriteSheet_26
+  - first:
+      213: 6013973323813787428
+    second: LostLamb_SpriteSheet_27
+  - first:
+      213: 9003287919872631157
+    second: LostLamb_SpriteSheet_28
+  - first:
+      213: 3241190883261780778
+    second: LostLamb_SpriteSheet_29
+  - first:
+      213: 4653186048826011993
+    second: LostLamb_SpriteSheet_30
+  - first:
+      213: -3369902868874076561
+    second: LostLamb_SpriteSheet_31
+  - first:
+      213: 3462270465342840395
+    second: LostLamb_SpriteSheet_32
+  - first:
+      213: 8055420267016063786
+    second: LostLamb_SpriteSheet_33
+  - first:
+      213: 3517873860644474158
+    second: LostLamb_SpriteSheet_34
+  - first:
+      213: -732185752543844021
+    second: LostLamb_SpriteSheet_35
+  - first:
+      213: 2549929219803484383
+    second: LostLamb_SpriteSheet_36
+  - first:
+      213: 4138287804503101362
+    second: LostLamb_SpriteSheet_37
+  - first:
+      213: 6458257564071520266
+    second: LostLamb_SpriteSheet_38
+  - first:
+      213: 7867957597389327884
+    second: LostLamb_SpriteSheet_39
+  - first:
+      213: 8498314131705092367
+    second: LostLamb_SpriteSheet_40
+  - first:
+      213: -3678748515952788363
+    second: LostLamb_SpriteSheet_41
+  - first:
+      213: 1204917362299991603
+    second: LostLamb_SpriteSheet_42
+  - first:
+      213: -6328558479883615068
+    second: LostLamb_SpriteSheet_43
+  - first:
+      213: -7069217347758476901
+    second: LostLamb_SpriteSheet_44
+  - first:
+      213: 5519238658824690463
+    second: LostLamb_SpriteSheet_45
+  - first:
+      213: -5459247543789013613
+    second: LostLamb_SpriteSheet_46
+  - first:
+      213: 5974874852102760394
+    second: LostLamb_SpriteSheet_47
+  - first:
+      213: 8585104911468877281
+    second: LostLamb_SpriteSheet_48
+  - first:
+      213: -2744734885318009241
+    second: LostLamb_SpriteSheet_49
+  - first:
+      213: 7623725909214467049
+    second: LostLamb_SpriteSheet_50
+  - first:
+      213: -1066598524145326784
+    second: LostLamb_SpriteSheet_51
+  - first:
+      213: 7223371477752693046
+    second: LostLamb_SpriteSheet_52
+  - first:
+      213: 2468825443031382523
+    second: LostLamb_SpriteSheet_53
+  - first:
+      213: 6044856398624404176
+    second: LostLamb_SpriteSheet_54
+  - first:
+      213: -2688799987851551191
+    second: LostLamb_SpriteSheet_55
+  - first:
+      213: 6513773474171837170
+    second: LostLamb_SpriteSheet_56
+  - first:
+      213: 5202661106301265410
+    second: LostLamb_SpriteSheet_57
+  - first:
+      213: 5982840555297597403
+    second: LostLamb_SpriteSheet_58
+  - first:
+      213: 2419804348163290768
+    second: LostLamb_SpriteSheet_59
+  - first:
+      213: 2114768057660630342
+    second: LostLamb_SpriteSheet_60
+  - first:
+      213: 4884408213936825377
+    second: LostLamb_SpriteSheet_61
+  - first:
+      213: -1085199122862840105
+    second: LostLamb_SpriteSheet_62
+  - first:
+      213: 5563032741078671943
+    second: LostLamb_SpriteSheet_63
+  - first:
+      213: -402477814021974411
+    second: LostLamb_SpriteSheet_64
+  - first:
+      213: -1060427707033970217
+    second: LostLamb_SpriteSheet_65
+  - first:
+      213: -2244935387231486282
+    second: LostLamb_SpriteSheet_66
+  - first:
+      213: -687157877085194538
+    second: LostLamb_SpriteSheet_67
+  - first:
+      213: -1763665615103276373
+    second: LostLamb_SpriteSheet_68
+  - first:
+      213: -4281015181880347559
+    second: LostLamb_SpriteSheet_69
+  - first:
+      213: -4248572953827377329
+    second: LostLamb_SpriteSheet_70
+  - first:
+      213: 1664801084587409510
+    second: LostLamb_SpriteSheet_71
+  - first:
+      213: -4882718810745506423
+    second: LostLamb_SpriteSheet_72
+  - first:
+      213: -2485016802539210873
+    second: LostLamb_SpriteSheet_73
+  - first:
+      213: 3981910706175041271
+    second: LostLamb_SpriteSheet_74
+  - first:
+      213: 4156084146941415073
+    second: LostLamb_SpriteSheet_75
+  - first:
+      213: 7461207651953390253
+    second: LostLamb_SpriteSheet_76
+  - first:
+      213: 81299607029561712
+    second: LostLamb_SpriteSheet_77
+  - first:
+      213: -6153894200762116625
+    second: LostLamb_SpriteSheet_78
+  - first:
+      213: -2223601050589005694
+    second: LostLamb_SpriteSheet_79
+  - first:
+      213: 8219133360159723511
+    second: LostLamb_SpriteSheet_80
+  - first:
+      213: -6186144647024058850
+    second: LostLamb_SpriteSheet_81
+  - first:
+      213: -2267463931896910849
+    second: LostLamb_SpriteSheet_82
+  - first:
+      213: 6834292726445012412
+    second: LostLamb_SpriteSheet_83
+  - first:
+      213: 6804800803025577653
+    second: LostLamb_SpriteSheet_84
+  - first:
+      213: 2931096283898124493
+    second: LostLamb_SpriteSheet_85
+  - first:
+      213: -3046166113949487100
+    second: LostLamb_SpriteSheet_86
+  - first:
+      213: 6245757083109922664
+    second: LostLamb_SpriteSheet_87
+  - first:
+      213: -7647791709962532374
+    second: LostLamb_SpriteSheet_88
+  - first:
+      213: 2331044418845525088
+    second: LostLamb_SpriteSheet_89
+  - first:
+      213: -4389615561843117814
+    second: LostLamb_SpriteSheet_90
+  - first:
+      213: 8711674912340995258
+    second: LostLamb_SpriteSheet_91
+  - first:
+      213: -1765079011469262471
+    second: LostLamb_SpriteSheet_92
+  - first:
+      213: -7554919055111747898
+    second: LostLamb_SpriteSheet_93
+  - first:
+      213: 7650085149286227184
+    second: LostLamb_SpriteSheet_94
+  - first:
+      213: 5850285629025624221
+    second: LostLamb_SpriteSheet_95
+  - first:
+      213: 4207298659134428656
+    second: LostLamb_SpriteSheet_96
+  - first:
+      213: 4304168444494069436
+    second: LostLamb_SpriteSheet_97
+  - first:
+      213: -317058239245409848
+    second: LostLamb_SpriteSheet_98
+  - first:
+      213: 5117381697881889753
+    second: LostLamb_SpriteSheet_99
+  - first:
+      213: -3993283015626988535
+    second: LostLamb_SpriteSheet_100
+  - first:
+      213: -1558702548168452575
+    second: LostLamb_SpriteSheet_101
+  - first:
+      213: -3302460452525412023
+    second: LostLamb_SpriteSheet_102
+  - first:
+      213: 5070812680964549849
+    second: LostLamb_SpriteSheet_103
+  - first:
+      213: -2315345944920379022
+    second: LostLamb_SpriteSheet_104
+  - first:
+      213: -7971495032901238533
+    second: LostLamb_SpriteSheet_105
+  - first:
+      213: -7388978950583648567
+    second: LostLamb_SpriteSheet_106
+  - first:
+      213: -3145734390683455878
+    second: LostLamb_SpriteSheet_107
+  - first:
+      213: 511676286281541594
+    second: LostLamb_SpriteSheet_108
+  - first:
+      213: -4418110803927036491
+    second: LostLamb_SpriteSheet_109
+  - first:
+      213: 4996876329992389602
+    second: LostLamb_SpriteSheet_110
+  - first:
+      213: -1349862050250750735
+    second: LostLamb_SpriteSheet_111
+  - first:
+      213: -4732290785848931114
+    second: LostLamb_SpriteSheet_112
+  - first:
+      213: -7188998028333179515
+    second: LostLamb_SpriteSheet_113
+  - first:
+      213: 904171422815726792
+    second: LostLamb_SpriteSheet_114
+  - first:
+      213: 8854683490053935725
+    second: LostLamb_SpriteSheet_115
+  - first:
+      213: -4066260657836447025
+    second: LostLamb_SpriteSheet_116
+  - first:
+      213: 5038408632690027029
+    second: LostLamb_SpriteSheet_117
+  - first:
+      213: -7905394247178469302
+    second: LostLamb_SpriteSheet_118
+  - first:
+      213: 912546827384092463
+    second: LostLamb_SpriteSheet_119
+  - first:
+      213: -8212928295571891495
+    second: LostLamb_SpriteSheet_120
+  - first:
+      213: -4975620043749902222
+    second: LostLamb_SpriteSheet_121
+  - first:
+      213: -745789077454837507
+    second: LostLamb_SpriteSheet_122
+  - first:
+      213: -1321796490933927887
+    second: LostLamb_SpriteSheet_123
+  - first:
+      213: -3827228081732197566
+    second: LostLamb_SpriteSheet_124
+  - first:
+      213: 1795514315995857986
+    second: LostLamb_SpriteSheet_125
+  - first:
+      213: -2363407644636812938
+    second: LostLamb_SpriteSheet_126
+  - first:
+      213: 1728387808622169518
+    second: LostLamb_SpriteSheet_127
+  - first:
+      213: 1608635361524076498
+    second: LostLamb_SpriteSheet_128
+  - first:
+      213: -7395758273238106143
+    second: LostLamb_SpriteSheet_129
+  - first:
+      213: -3982163430840100271
+    second: LostLamb_SpriteSheet_130
+  - first:
+      213: -121497620322604564
+    second: LostLamb_SpriteSheet_131
+  - first:
+      213: -6411716163909647710
+    second: LostLamb_SpriteSheet_132
+  - first:
+      213: -3604851681398345789
+    second: LostLamb_SpriteSheet_133
+  - first:
+      213: -3123194443219264605
+    second: LostLamb_SpriteSheet_134
+  - first:
+      213: 6610691294729130978
+    second: LostLamb_SpriteSheet_135
+  - first:
+      213: 6210096457527265494
+    second: LostLamb_SpriteSheet_136
+  - first:
+      213: 4344880014754465269
+    second: LostLamb_SpriteSheet_137
+  - first:
+      213: 8226527269159049052
+    second: LostLamb_SpriteSheet_138
+  - first:
+      213: 164347720941051314
+    second: LostLamb_SpriteSheet_139
+  - first:
+      213: 5093750458863360303
+    second: LostLamb_SpriteSheet_140
+  - first:
+      213: -7493002342995915581
+    second: LostLamb_SpriteSheet_141
+  - first:
+      213: -6370560492039327256
+    second: LostLamb_SpriteSheet_142
+  - first:
+      213: -1166642717947135003
+    second: LostLamb_SpriteSheet_143
+  - first:
+      213: 4585500417669565251
+    second: LostLamb_SpriteSheet_144
+  - first:
+      213: 8379592884311027923
+    second: LostLamb_SpriteSheet_145
+  - first:
+      213: 6887867322313228308
+    second: LostLamb_SpriteSheet_146
+  - first:
+      213: -2453004640268303872
+    second: LostLamb_SpriteSheet_147
+  - first:
+      213: 6920515629817128648
+    second: LostLamb_SpriteSheet_148
+  - first:
+      213: 220650591364692892
+    second: LostLamb_SpriteSheet_149
+  - first:
+      213: -6271962848648079188
+    second: LostLamb_SpriteSheet_150
+  - first:
+      213: -7963362549330559567
+    second: LostLamb_SpriteSheet_151
+  - first:
+      213: -6450330098348268809
+    second: LostLamb_SpriteSheet_152
+  - first:
+      213: 6982688351216593615
+    second: LostLamb_SpriteSheet_153
+  - first:
+      213: -2532815191804686637
+    second: LostLamb_SpriteSheet_154
+  - first:
+      213: -1029038587842849326
+    second: LostLamb_SpriteSheet_155
+  - first:
+      213: -3935884753883413252
+    second: LostLamb_SpriteSheet_156
+  - first:
+      213: 2201550943567927731
+    second: LostLamb_SpriteSheet_157
+  - first:
+      213: 1618294396525602194
+    second: LostLamb_SpriteSheet_158
+  - first:
+      213: -6293957220779587815
+    second: LostLamb_SpriteSheet_159
+  - first:
+      213: -1966851693629203518
+    second: LostLamb_SpriteSheet_160
+  - first:
+      213: -8230611189768885396
+    second: LostLamb_SpriteSheet_161
+  - first:
+      213: 7657839774654164992
+    second: LostLamb_SpriteSheet_162
+  - first:
+      213: 8616200752043784790
+    second: LostLamb_SpriteSheet_163
+  - first:
+      213: 2205024930935111178
+    second: LostLamb_SpriteSheet_164
+  - first:
+      213: -7482545520804234462
+    second: LostLamb_SpriteSheet_165
+  - first:
+      213: -2287802117534861957
+    second: LostLamb_SpriteSheet_166
+  - first:
+      213: 3989877786096884276
+    second: LostLamb_SpriteSheet_167
+  - first:
+      213: 5055108796738277431
+    second: LostLamb_SpriteSheet_168
+  - first:
+      213: 2635634067982548297
+    second: LostLamb_SpriteSheet_169
+  - first:
+      213: -1600303694411975994
+    second: LostLamb_SpriteSheet_170
+  - first:
+      213: 8501913087537692757
+    second: LostLamb_SpriteSheet_171
+  - first:
+      213: -1063789887827409083
+    second: LostLamb_SpriteSheet_172
+  - first:
+      213: -3120225580886216840
+    second: LostLamb_SpriteSheet_173
+  - first:
+      213: -4774894535380021243
+    second: LostLamb_SpriteSheet_174
+  - first:
+      213: -6054008376879082247
+    second: LostLamb_SpriteSheet_175
+  - first:
+      213: -223274744802348404
+    second: LostLamb_SpriteSheet_176
+  - first:
+      213: -5184584384446954506
+    second: LostLamb_SpriteSheet_177
+  - first:
+      213: 4544249699767032712
+    second: LostLamb_SpriteSheet_178
+  - first:
+      213: 2363578496464167696
+    second: LostLamb_SpriteSheet_179
+  - first:
+      213: -2381116670902417448
+    second: LostLamb_SpriteSheet_180
+  - first:
+      213: 2672037520136571731
+    second: LostLamb_SpriteSheet_181
+  - first:
+      213: -2519266749140378716
+    second: LostLamb_SpriteSheet_182
+  - first:
+      213: -7737074134801609339
+    second: LostLamb_SpriteSheet_183
+  - first:
+      213: -6136427970079623032
+    second: LostLamb_SpriteSheet_184
+  - first:
+      213: 7978686707801015731
+    second: LostLamb_SpriteSheet_185
+  - first:
+      213: -4806639756149088201
+    second: LostLamb_SpriteSheet_186
+  - first:
+      213: -1626030466981455385
+    second: LostLamb_SpriteSheet_187
+  - first:
+      213: -2334550533891366898
+    second: LostLamb_SpriteSheet_188
+  - first:
+      213: -4675354871985708648
+    second: LostLamb_SpriteSheet_189
+  - first:
+      213: 4536628869963434561
+    second: LostLamb_SpriteSheet_190
+  - first:
+      213: -4542009696133303399
+    second: LostLamb_SpriteSheet_191
+  - first:
+      213: -7022487045781799387
+    second: LostLamb_SpriteSheet_192
+  - first:
+      213: 7810513672664324827
+    second: LostLamb_SpriteSheet_193
+  - first:
+      213: -3966561571811610925
+    second: LostLamb_SpriteSheet_194
+  - first:
+      213: -5079594800616889406
+    second: LostLamb_SpriteSheet_195
+  - first:
+      213: 4637951302521014423
+    second: LostLamb_SpriteSheet_196
+  - first:
+      213: -5289581595185489520
+    second: LostLamb_SpriteSheet_197
+  - first:
+      213: -5149112464212265068
+    second: LostLamb_SpriteSheet_198
+  - first:
+      213: -4090311885231629371
+    second: LostLamb_SpriteSheet_199
+  - first:
+      213: -6595717360001751991
+    second: LostLamb_SpriteSheet_200
+  - first:
+      213: 6517204199525183362
+    second: LostLamb_SpriteSheet_201
+  - first:
+      213: -6745446568823108309
+    second: LostLamb_SpriteSheet_202
+  - first:
+      213: 8051582342973125540
+    second: LostLamb_SpriteSheet_203
+  - first:
+      213: -4857477625699284796
+    second: LostLamb_SpriteSheet_204
+  - first:
+      213: 3043599932367686614
+    second: LostLamb_SpriteSheet_205
+  - first:
+      213: 1151540766567704320
+    second: LostLamb_SpriteSheet_206
+  - first:
+      213: -8241795272194813098
+    second: LostLamb_SpriteSheet_207
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 193
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852c2e3d92b4991d0800000000000000
+      internalID: -3343558605325286824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 287
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935f2941deed3cf50800000000000000
+      internalID: 6900604163895522617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 287
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3afed134a77d630800000000000000
+      internalID: 3951761626724541344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 287
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b339e5fc47e4af0800000000000000
+      internalID: -410262082050376822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 287
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344207cb2f2e11cc0800000000000000
+      internalID: -3741960283196742589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 319
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241e703e528d39ee0800000000000000
+      internalID: -1255422213871902398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 351
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e81acacde5e5d0800000000000000
+      internalID: -3033757318734354465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 367
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d34c9cd667deba0800000000000000
+      internalID: -6058055709834855043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 367
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbc5916e85eeed20800000000000000
+      internalID: 3309835175849216982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 367
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d652e2a0a723d60800000000000000
+      internalID: 7868485683112144261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 367
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e7f81f03edf55e0800000000000000
+      internalID: -1918570614444032401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 367
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744774a877ec9de90800000000000000
+      internalID: -7000337132954356665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 367
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a39ce387d3f44890800000000000000
+      internalID: -7474581374571342942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 319
+        width: 162
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18253b0c9e329ec20800000000000000
+      internalID: 3236157294109741697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 127
+        width: 242
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6e03d5d95902b50800000000000000
+      internalID: 6566412759812073173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a056b2358bcd0320800000000000000
+      internalID: 2525898738966614182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 352
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8579b03f55419d4c0800000000000000
+      internalID: -4262353212947065000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bcf818984af3060800000000000000
+      internalID: 6935442861665012606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 352
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb51e3386034e3b40800000000000000
+      internalID: 5421844696651404732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 351
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760b002e4a6b13620800000000000000
+      internalID: 2752181666582671463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 351
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa93307bb075013e0800000000000000
+      internalID: -2085070919645840977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 351
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379f707f6f248a3f0800000000000000
+      internalID: -889387297931789965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1451530a7b2af30800000000000000
+      internalID: 4585429269329822165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 335
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176e6690071b06f30800000000000000
+      internalID: 4566845116905875057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 351
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d08046fedebb4f0800000000000000
+      internalID: -811793695379026590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 351
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5023a0e76247051f0800000000000000
+      internalID: -1058218203759889915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 338
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0717b98f6fde4250800000000000000
+      internalID: 5930923429438363402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 287
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4279896efdce57350800000000000000
+      internalID: 6013973323813787428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 335
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571e29269aa12fc70800000000000000
+      internalID: 9003287919872631157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 335
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a239d0e8fe50bfc20800000000000000
+      internalID: 3241190883261780778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 335
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951f31ace00739040800000000000000
+      internalID: 4653186048826011993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 335
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ed03df133bb31d0800000000000000
+      internalID: -3369902868874076561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 335
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e1613f4a47c0030800000000000000
+      internalID: 3462270465342840395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 335
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b89fbad0a9acf60800000000000000
+      internalID: 8055420267016063786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 287
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d885443aff1d030800000000000000
+      internalID: 3517873860644474158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 335
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49a506ffe0c6d5f0800000000000000
+      internalID: -732185752543844021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 287
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd096c48d1b236320800000000000000
+      internalID: 2549929219803484383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 335
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf0db525d62e6930800000000000000
+      internalID: 4138287804503101362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 319
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a086676890750a950800000000000000
+      internalID: 6458257564071520266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 335
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e0a34afb9903d60800000000000000
+      internalID: 7867957597389327884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 335
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09d6f14da310f570800000000000000
+      internalID: 8498314131705092367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 335
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c73a037b572fcc0800000000000000
+      internalID: -3678748515952788363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336779305f9b8b010800000000000000
+      internalID: 1204917362299991603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 319
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4404ab7917c28a0800000000000000
+      internalID: -6328558479883615068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 319
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91b3dac64815ed90800000000000000
+      internalID: -7069217347758476901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 287
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b59d96156489c40800000000000000
+      internalID: 5519238658824690463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 319
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3953883884bdc34b0800000000000000
+      internalID: -5459247543789013613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 319
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7eff095050be250800000000000000
+      internalID: 5974874852102760394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 319
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5509f5e6b642770800000000000000
+      internalID: 8585104911468877281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 298
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e5ffdf92eb8e9d0800000000000000
+      internalID: -2744734885318009241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 287
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e39bab725aecc960800000000000000
+      internalID: 7623725909214467049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 303
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045ac5a1b4ea231f0800000000000000
+      internalID: -1066598524145326784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 303
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631432486129e3460800000000000000
+      internalID: 7223371477752693046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 287
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9f458f8a7034220800000000000000
+      internalID: 2468825443031382523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 303
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d231461ed4a3e350800000000000000
+      internalID: 6044856398624404176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 287
+        width: 76
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e980c28a67faad0800000000000000
+      internalID: -2688799987851551191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 271
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fadf5b9672956a50800000000000000
+      internalID: 6513773474171837170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 287
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206e3d716b0933840800000000000000
+      internalID: 5202661106301265410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 287
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7605e59c1570350800000000000000
+      internalID: 5982840555297597403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 271
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096f736eb3fd49120800000000000000
+      internalID: 2419804348163290768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 287
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645643b085a295d10800000000000000
+      internalID: 2114768057660630342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 271
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12464b15467e8c340800000000000000
+      internalID: 4884408213936825377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 271
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6e13bb52990f0f0800000000000000
+      internalID: -1085199122862840105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 191
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742acd5cdccd33d40800000000000000
+      internalID: 5563032741078671943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 191
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5769e318f8c1a6af0800000000000000
+      internalID: -402477814021974411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 191
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9124c6e9a9841f0800000000000000
+      internalID: -1060427707033970217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 191
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6befc54d82368d0e0800000000000000
+      internalID: -2244935387231486282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 271
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6b9bf2d89b676f0800000000000000
+      internalID: -687157877085194538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 271
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baac235a7733687e0800000000000000
+      internalID: -1763665615103276373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 271
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954b7f5bf57c694c0800000000000000
+      internalID: -4281015181880347559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 271
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f79cc88690a05c0800000000000000
+      internalID: -4248572953827377329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 271
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660848414cf8a1710800000000000000
+      internalID: 1664801084587409510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 271
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98575638c191d3cb0800000000000000
+      internalID: -4882718810745506423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 271
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787f5cf5262738dd0800000000000000
+      internalID: -2485016802539210873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 271
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe53e0b0b6924730800000000000000
+      internalID: 3981910706175041271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 255
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae431303806da930800000000000000
+      internalID: 4156084146941415073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 274
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2bb1a04d88b8760800000000000000
+      internalID: 7461207651953390253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 191
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0793065df85d02100800000000000000
+      internalID: 81299607029561712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 255
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5dc3244d9f89aa0800000000000000
+      internalID: -6153894200762116625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 255
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288f47920ae2421e0800000000000000
+      internalID: -2223601050589005694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 255
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff02e58e3a301270800000000000000
+      internalID: 8219133360159723511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 255
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e52f81836662aa0800000000000000
+      internalID: -6186144647024058850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 255
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb264641995880e0800000000000000
+      internalID: -2267463931896910849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 255
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb57aca660948de50800000000000000
+      internalID: 6834292726445012412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 255
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6e1a7e6428f6e50800000000000000
+      internalID: 6804800803025577653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 239
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc817346a885da820800000000000000
+      internalID: 2931096283898124493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 255
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40075330f08d9b5d0800000000000000
+      internalID: -3046166113949487100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 239
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8679524c9f26da650800000000000000
+      internalID: 6245757083109922664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 255
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae98183a5f59dd590800000000000000
+      internalID: -7647791709962532374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 255
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064c1fc6c88895020800000000000000
+      internalID: 2331044418845525088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 255
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0170d757e3f413c0800000000000000
+      internalID: -4389615561843117814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 255
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc64c42d2616e870800000000000000
+      internalID: 8711674912340995258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 255
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97180e8adfd2187e0800000000000000
+      internalID: -1765079011469262471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 239
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c60c35a529872790800000000000000
+      internalID: -7554919055111747898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 207
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc52b059ef8a2a60800000000000000
+      internalID: 7650085149286227184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 239
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9025a098c3603150800000000000000
+      internalID: 5850285629025624221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 239
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f55fa9d6d3536a30800000000000000
+      internalID: 4207298659134428656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 239
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeb383556a7bbb30800000000000000
+      internalID: 4304168444494069436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 239
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1aaa41635999bf0800000000000000
+      internalID: -317058239245409848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 239
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbd55a8a87940740800000000000000
+      internalID: 5117381697881889753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 239
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904e3fd21420598c0800000000000000
+      internalID: -3993283015626988535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 207
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1265ce17a406e5ae0800000000000000
+      internalID: -1558702548168452575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 223
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941727237bd4b22d0800000000000000
+      internalID: -3302460452525412023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 223
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc207b54452f5640800000000000000
+      internalID: 5070812680964549849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 223
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27131ec512d3edfd0800000000000000
+      internalID: -2315345944920379022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 207
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0812b908f8f5190800000000000000
+      internalID: -7971495032901238533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 207
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce7f9dfac2157990800000000000000
+      internalID: -7388978950583648567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 127
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e259d0d3b1854d0800000000000000
+      internalID: -3145734390683455878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 207
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad76dc31fd6d91700800000000000000
+      internalID: 511676286281541594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 207
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd0d99c1a7bfa2c0800000000000000
+      internalID: -4418110803927036491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 127
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e301cb2c88785540800000000000000
+      internalID: 4996876329992389602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 191
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4060ffd93544de0800000000000000
+      internalID: -1349862050250750735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 191
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcce9f5a96835eb0800000000000000
+      internalID: -4732290785848931114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 127
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d9736d16c8b3c90800000000000000
+      internalID: -7188998028333179515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 127
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccadf85e134c8c00800000000000000
+      internalID: 904171422815726792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 176
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d625e2758b722ea70800000000000000
+      internalID: 8854683490053935725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 176
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca2385c97db197c0800000000000000
+      internalID: -4066260657836447025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 191
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a20c0f4f50ce540800000000000000
+      internalID: 5038408632690027029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 176
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40c28711d56a4290800000000000000
+      internalID: -7905394247178469302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 176
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27732f21840aac00800000000000000
+      internalID: 912546827384092463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 176
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dadea8aa31d50e80800000000000000
+      internalID: -8212928295571891495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 159
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27839f2aeeb03fab0800000000000000
+      internalID: -4975620043749902222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 159
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df820f019cc66a5f0800000000000000
+      internalID: -745789077454837507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 127
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130868c381908ade0800000000000000
+      internalID: -1321796490933927887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 127
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243e3f15654f2eac0800000000000000
+      internalID: -3827228081732197566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 127
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244cf02e1c2fae810800000000000000
+      internalID: 1795514315995857986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 127
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679eaf1e44d733fd0800000000000000
+      internalID: -2363407644636812938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 127
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead4a07fd877cf710800000000000000
+      internalID: 1728387808622169518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 160
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df46c0a655035610800000000000000
+      internalID: 1608635361524076498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 144
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef7cfee80dfc5990800000000000000
+      internalID: -7395758273238106143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 160
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a993345738cb8c0800000000000000
+      internalID: -3982163430840100271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 144
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9ad9bde8a505ef0800000000000000
+      internalID: -121497620322604564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 160
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a20981ae120507a0800000000000000
+      internalID: -6411716163909647710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 144
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf284ebe7ef8fdc0800000000000000
+      internalID: -3604851681398345789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 160
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab1177833f28a4d0800000000000000
+      internalID: -3123194443219264605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 144
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3d81625b4edbb50800000000000000
+      internalID: 6610691294729130978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 160
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d803db53d1be2650800000000000000
+      internalID: 6210096457527265494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 144
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5422f6a5d1c4c30800000000000000
+      internalID: 4344880014754465269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 127
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c571a4d17fe7a2270800000000000000
+      internalID: 8226527269159049052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 127
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd1656a161e74200800000000000000
+      internalID: 164347720941051314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f299803fd03a0b640800000000000000
+      internalID: 5093750458863360303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 128
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc0f849112830890800000000000000
+      internalID: -7493002342995915581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 128
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1bbd33cf83797a0800000000000000
+      internalID: -6370560492039327256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 128
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebf6f011a04fcfe0800000000000000
+      internalID: -1166642717947135003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 128
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b8998b558f2af30800000000000000
+      internalID: 4585500417669565251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 127
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0ffbfc45b4a4470800000000000000
+      internalID: 8379592884311027923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 79
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410408e06de969f50800000000000000
+      internalID: 6887867322313228308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 79
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0024c68b64d25fdd0800000000000000
+      internalID: -2453004640268303872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 79
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6e9c18c4c9a0060800000000000000
+      internalID: 6920515629817128648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 79
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bb5c53b88ef0300800000000000000
+      internalID: 220650591364692892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 79
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca852e9f40385f8a0800000000000000
+      internalID: -6271962848648079188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 79
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdb08df3f37c7190800000000000000
+      internalID: -7963362549330559567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 80
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2e0fb63f2db76a0800000000000000
+      internalID: -6450330098348268809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 79
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcae58f3f0e77e060800000000000000
+      internalID: 6982688351216593615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 79
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dec4c2a002a9dcd0800000000000000
+      internalID: -2532815191804686637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 79
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5157f3bde18b1f0800000000000000
+      internalID: -1029038587842849326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 80
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf447e76bade069c0800000000000000
+      internalID: -3935884753883413252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 79
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9da4a3bea7d8e10800000000000000
+      internalID: 2201550943567927731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 79
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295e9e6fd26557610800000000000000
+      internalID: 1618294396525602194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 79
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9178de7214f57a8a0800000000000000
+      internalID: -6293957220779587815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 79
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb1b533ec654b4e0800000000000000
+      internalID: -1966851693629203518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 80
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b68750bbef6cd80800000000000000
+      internalID: -8230611189768885396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 80
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0007e1bb3bc164a60800000000000000
+      internalID: 7657839774654164992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 80
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65af503fee4e29770800000000000000
+      internalID: 8616200752043784790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 79
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e7441fd72d99e10800000000000000
+      internalID: 2205024930935111178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 80
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bf5c83e78a82890800000000000000
+      internalID: -7482545520804234462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 82
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75b2fb68181040e0800000000000000
+      internalID: -2287802117534861957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 80
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ad68905b4ee5730800000000000000
+      internalID: 3989877786096884276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 79
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7309982eaaa572640800000000000000
+      internalID: 5055108796738277431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 47
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d740c7837a39420800000000000000
+      internalID: 2635634067982548297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 47
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c234d9c4449ac9e0800000000000000
+      internalID: -1600303694411975994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 47
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550cde578ecdcf570800000000000000
+      internalID: 8501913087537692757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 47
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5470564bbb8ac31f0800000000000000
+      internalID: -1063789887827409083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 47
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fa038ad5bb2b4d0800000000000000
+      internalID: -3120225580886216840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 47
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50058b2f7ba2cbdb0800000000000000
+      internalID: -4774894535380021243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 47
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f412ece477dbfba0800000000000000
+      internalID: -6054008376879082247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 47
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c827db47dc4c6ecf0800000000000000
+      internalID: -223274744802348404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 47
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f38001b8f7ac08b0800000000000000
+      internalID: -5184584384446954506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 47
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b1a45860b601f30800000000000000
+      internalID: 4544249699767032712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 47
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013af78ae1e1dc020800000000000000
+      internalID: 2363578496464167696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 47
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7c916e00394fed0800000000000000
+      internalID: -2381116670902417448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 47
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b814ea7fbf41520800000000000000
+      internalID: 2672037520136571731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 47
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abd8034d34c90dd0800000000000000
+      internalID: -2519266749140378716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 47
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d8942311460a490800000000000000
+      internalID: -7737074134801609339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 47
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888f1adf54707daa0800000000000000
+      internalID: -6136427970079623032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 47
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b54c90b94df9be60800000000000000
+      internalID: 7978686707801015731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 47
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730a673cb926b4db0800000000000000
+      internalID: -4806639756149088201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e99b95c7ed2f69e0800000000000000
+      internalID: -1626030466981455385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00e43d88a20a9fd0800000000000000
+      internalID: -2334550533891366898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8916668d38dcd1fb0800000000000000
+      internalID: -4675354871985708648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ac3ffcbe755fe30800000000000000
+      internalID: 4536628869963434561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9933897fe3a87f0c0800000000000000
+      internalID: -4542009696133303399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eb4641d3d1b8e90800000000000000
+      internalID: -7022487045781799387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda1d7cadc4846c60800000000000000
+      internalID: 7810513672664324827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 4
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de24742441f3f8c0800000000000000
+      internalID: -3966561571811610925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c32f421177a189b0800000000000000
+      internalID: -5079594800616889406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798435003205d5040800000000000000
+      internalID: 4637951302521014423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_197
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09956888091a796b0800000000000000
+      internalID: -5289581595185489520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_198
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4977716be7daa88b0800000000000000
+      internalID: -5149112464212265068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_199
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbd534030b4c37c0800000000000000
+      internalID: -4090311885231629371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_200
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944e736b10e4774a0800000000000000
+      internalID: -6595717360001751991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_201
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fe16990b2c17a50800000000000000
+      internalID: 6517204199525183362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_202
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dcbe5a51c5362a0800000000000000
+      internalID: -6745446568823108309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_203
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a378b85b77fcbf60800000000000000
+      internalID: 8051582342973125540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_204
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 0
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c849cfd5d5c69cb0800000000000000
+      internalID: -4857477625699284796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_205
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbcd27430a0d3a20800000000000000
+      internalID: 3043599932367686614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_206
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 0
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00726afd9381bff00800000000000000
+      internalID: 1151540766567704320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LostLamb_SpriteSheet_207
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 0
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6539559edd24f9d80800000000000000
+      internalID: -8241795272194813098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LostLamb_SpriteSheet_0: -3343558605325286824
+      LostLamb_SpriteSheet_1: 6900604163895522617
+      LostLamb_SpriteSheet_10: -1918570614444032401
+      LostLamb_SpriteSheet_100: -3993283015626988535
+      LostLamb_SpriteSheet_101: -1558702548168452575
+      LostLamb_SpriteSheet_102: -3302460452525412023
+      LostLamb_SpriteSheet_103: 5070812680964549849
+      LostLamb_SpriteSheet_104: -2315345944920379022
+      LostLamb_SpriteSheet_105: -7971495032901238533
+      LostLamb_SpriteSheet_106: -7388978950583648567
+      LostLamb_SpriteSheet_107: -3145734390683455878
+      LostLamb_SpriteSheet_108: 511676286281541594
+      LostLamb_SpriteSheet_109: -4418110803927036491
+      LostLamb_SpriteSheet_11: -7000337132954356665
+      LostLamb_SpriteSheet_110: 4996876329992389602
+      LostLamb_SpriteSheet_111: -1349862050250750735
+      LostLamb_SpriteSheet_112: -4732290785848931114
+      LostLamb_SpriteSheet_113: -7188998028333179515
+      LostLamb_SpriteSheet_114: 904171422815726792
+      LostLamb_SpriteSheet_115: 8854683490053935725
+      LostLamb_SpriteSheet_116: -4066260657836447025
+      LostLamb_SpriteSheet_117: 5038408632690027029
+      LostLamb_SpriteSheet_118: -7905394247178469302
+      LostLamb_SpriteSheet_119: 912546827384092463
+      LostLamb_SpriteSheet_12: -7474581374571342942
+      LostLamb_SpriteSheet_120: -8212928295571891495
+      LostLamb_SpriteSheet_121: -4975620043749902222
+      LostLamb_SpriteSheet_122: -745789077454837507
+      LostLamb_SpriteSheet_123: -1321796490933927887
+      LostLamb_SpriteSheet_124: -3827228081732197566
+      LostLamb_SpriteSheet_125: 1795514315995857986
+      LostLamb_SpriteSheet_126: -2363407644636812938
+      LostLamb_SpriteSheet_127: 1728387808622169518
+      LostLamb_SpriteSheet_128: 1608635361524076498
+      LostLamb_SpriteSheet_129: -7395758273238106143
+      LostLamb_SpriteSheet_13: 3236157294109741697
+      LostLamb_SpriteSheet_130: -3982163430840100271
+      LostLamb_SpriteSheet_131: -121497620322604564
+      LostLamb_SpriteSheet_132: -6411716163909647710
+      LostLamb_SpriteSheet_133: -3604851681398345789
+      LostLamb_SpriteSheet_134: -3123194443219264605
+      LostLamb_SpriteSheet_135: 6610691294729130978
+      LostLamb_SpriteSheet_136: 6210096457527265494
+      LostLamb_SpriteSheet_137: 4344880014754465269
+      LostLamb_SpriteSheet_138: 8226527269159049052
+      LostLamb_SpriteSheet_139: 164347720941051314
+      LostLamb_SpriteSheet_14: 6566412759812073173
+      LostLamb_SpriteSheet_140: 5093750458863360303
+      LostLamb_SpriteSheet_141: -7493002342995915581
+      LostLamb_SpriteSheet_142: -6370560492039327256
+      LostLamb_SpriteSheet_143: -1166642717947135003
+      LostLamb_SpriteSheet_144: 4585500417669565251
+      LostLamb_SpriteSheet_145: 8379592884311027923
+      LostLamb_SpriteSheet_146: 6887867322313228308
+      LostLamb_SpriteSheet_147: -2453004640268303872
+      LostLamb_SpriteSheet_148: 6920515629817128648
+      LostLamb_SpriteSheet_149: 220650591364692892
+      LostLamb_SpriteSheet_15: 2525898738966614182
+      LostLamb_SpriteSheet_150: -6271962848648079188
+      LostLamb_SpriteSheet_151: -7963362549330559567
+      LostLamb_SpriteSheet_152: -6450330098348268809
+      LostLamb_SpriteSheet_153: 6982688351216593615
+      LostLamb_SpriteSheet_154: -2532815191804686637
+      LostLamb_SpriteSheet_155: -1029038587842849326
+      LostLamb_SpriteSheet_156: -3935884753883413252
+      LostLamb_SpriteSheet_157: 2201550943567927731
+      LostLamb_SpriteSheet_158: 1618294396525602194
+      LostLamb_SpriteSheet_159: -6293957220779587815
+      LostLamb_SpriteSheet_16: -4262353212947065000
+      LostLamb_SpriteSheet_160: -1966851693629203518
+      LostLamb_SpriteSheet_161: -8230611189768885396
+      LostLamb_SpriteSheet_162: 7657839774654164992
+      LostLamb_SpriteSheet_163: 8616200752043784790
+      LostLamb_SpriteSheet_164: 2205024930935111178
+      LostLamb_SpriteSheet_165: -7482545520804234462
+      LostLamb_SpriteSheet_166: -2287802117534861957
+      LostLamb_SpriteSheet_167: 3989877786096884276
+      LostLamb_SpriteSheet_168: 5055108796738277431
+      LostLamb_SpriteSheet_169: 2635634067982548297
+      LostLamb_SpriteSheet_17: 6935442861665012606
+      LostLamb_SpriteSheet_170: -1600303694411975994
+      LostLamb_SpriteSheet_171: 8501913087537692757
+      LostLamb_SpriteSheet_172: -1063789887827409083
+      LostLamb_SpriteSheet_173: -3120225580886216840
+      LostLamb_SpriteSheet_174: -4774894535380021243
+      LostLamb_SpriteSheet_175: -6054008376879082247
+      LostLamb_SpriteSheet_176: -223274744802348404
+      LostLamb_SpriteSheet_177: -5184584384446954506
+      LostLamb_SpriteSheet_178: 4544249699767032712
+      LostLamb_SpriteSheet_179: 2363578496464167696
+      LostLamb_SpriteSheet_18: 5421844696651404732
+      LostLamb_SpriteSheet_180: -2381116670902417448
+      LostLamb_SpriteSheet_181: 2672037520136571731
+      LostLamb_SpriteSheet_182: -2519266749140378716
+      LostLamb_SpriteSheet_183: -7737074134801609339
+      LostLamb_SpriteSheet_184: -6136427970079623032
+      LostLamb_SpriteSheet_185: 7978686707801015731
+      LostLamb_SpriteSheet_186: -4806639756149088201
+      LostLamb_SpriteSheet_187: -1626030466981455385
+      LostLamb_SpriteSheet_188: -2334550533891366898
+      LostLamb_SpriteSheet_189: -4675354871985708648
+      LostLamb_SpriteSheet_19: 2752181666582671463
+      LostLamb_SpriteSheet_190: 4536628869963434561
+      LostLamb_SpriteSheet_191: -4542009696133303399
+      LostLamb_SpriteSheet_192: -7022487045781799387
+      LostLamb_SpriteSheet_193: 7810513672664324827
+      LostLamb_SpriteSheet_194: -3966561571811610925
+      LostLamb_SpriteSheet_195: -5079594800616889406
+      LostLamb_SpriteSheet_196: 4637951302521014423
+      LostLamb_SpriteSheet_197: -5289581595185489520
+      LostLamb_SpriteSheet_198: -5149112464212265068
+      LostLamb_SpriteSheet_199: -4090311885231629371
+      LostLamb_SpriteSheet_2: 3951761626724541344
+      LostLamb_SpriteSheet_20: -2085070919645840977
+      LostLamb_SpriteSheet_200: -6595717360001751991
+      LostLamb_SpriteSheet_201: 6517204199525183362
+      LostLamb_SpriteSheet_202: -6745446568823108309
+      LostLamb_SpriteSheet_203: 8051582342973125540
+      LostLamb_SpriteSheet_204: -4857477625699284796
+      LostLamb_SpriteSheet_205: 3043599932367686614
+      LostLamb_SpriteSheet_206: 1151540766567704320
+      LostLamb_SpriteSheet_207: -8241795272194813098
+      LostLamb_SpriteSheet_21: -889387297931789965
+      LostLamb_SpriteSheet_22: 4585429269329822165
+      LostLamb_SpriteSheet_23: 4566845116905875057
+      LostLamb_SpriteSheet_24: -811793695379026590
+      LostLamb_SpriteSheet_25: -1058218203759889915
+      LostLamb_SpriteSheet_26: 5930923429438363402
+      LostLamb_SpriteSheet_27: 6013973323813787428
+      LostLamb_SpriteSheet_28: 9003287919872631157
+      LostLamb_SpriteSheet_29: 3241190883261780778
+      LostLamb_SpriteSheet_3: -410262082050376822
+      LostLamb_SpriteSheet_30: 4653186048826011993
+      LostLamb_SpriteSheet_31: -3369902868874076561
+      LostLamb_SpriteSheet_32: 3462270465342840395
+      LostLamb_SpriteSheet_33: 8055420267016063786
+      LostLamb_SpriteSheet_34: 3517873860644474158
+      LostLamb_SpriteSheet_35: -732185752543844021
+      LostLamb_SpriteSheet_36: 2549929219803484383
+      LostLamb_SpriteSheet_37: 4138287804503101362
+      LostLamb_SpriteSheet_38: 6458257564071520266
+      LostLamb_SpriteSheet_39: 7867957597389327884
+      LostLamb_SpriteSheet_4: -3741960283196742589
+      LostLamb_SpriteSheet_40: 8498314131705092367
+      LostLamb_SpriteSheet_41: -3678748515952788363
+      LostLamb_SpriteSheet_42: 1204917362299991603
+      LostLamb_SpriteSheet_43: -6328558479883615068
+      LostLamb_SpriteSheet_44: -7069217347758476901
+      LostLamb_SpriteSheet_45: 5519238658824690463
+      LostLamb_SpriteSheet_46: -5459247543789013613
+      LostLamb_SpriteSheet_47: 5974874852102760394
+      LostLamb_SpriteSheet_48: 8585104911468877281
+      LostLamb_SpriteSheet_49: -2744734885318009241
+      LostLamb_SpriteSheet_5: -1255422213871902398
+      LostLamb_SpriteSheet_50: 7623725909214467049
+      LostLamb_SpriteSheet_51: -1066598524145326784
+      LostLamb_SpriteSheet_52: 7223371477752693046
+      LostLamb_SpriteSheet_53: 2468825443031382523
+      LostLamb_SpriteSheet_54: 6044856398624404176
+      LostLamb_SpriteSheet_55: -2688799987851551191
+      LostLamb_SpriteSheet_56: 6513773474171837170
+      LostLamb_SpriteSheet_57: 5202661106301265410
+      LostLamb_SpriteSheet_58: 5982840555297597403
+      LostLamb_SpriteSheet_59: 2419804348163290768
+      LostLamb_SpriteSheet_6: -3033757318734354465
+      LostLamb_SpriteSheet_60: 2114768057660630342
+      LostLamb_SpriteSheet_61: 4884408213936825377
+      LostLamb_SpriteSheet_62: -1085199122862840105
+      LostLamb_SpriteSheet_63: 5563032741078671943
+      LostLamb_SpriteSheet_64: -402477814021974411
+      LostLamb_SpriteSheet_65: -1060427707033970217
+      LostLamb_SpriteSheet_66: -2244935387231486282
+      LostLamb_SpriteSheet_67: -687157877085194538
+      LostLamb_SpriteSheet_68: -1763665615103276373
+      LostLamb_SpriteSheet_69: -4281015181880347559
+      LostLamb_SpriteSheet_7: -6058055709834855043
+      LostLamb_SpriteSheet_70: -4248572953827377329
+      LostLamb_SpriteSheet_71: 1664801084587409510
+      LostLamb_SpriteSheet_72: -4882718810745506423
+      LostLamb_SpriteSheet_73: -2485016802539210873
+      LostLamb_SpriteSheet_74: 3981910706175041271
+      LostLamb_SpriteSheet_75: 4156084146941415073
+      LostLamb_SpriteSheet_76: 7461207651953390253
+      LostLamb_SpriteSheet_77: 81299607029561712
+      LostLamb_SpriteSheet_78: -6153894200762116625
+      LostLamb_SpriteSheet_79: -2223601050589005694
+      LostLamb_SpriteSheet_8: 3309835175849216982
+      LostLamb_SpriteSheet_80: 8219133360159723511
+      LostLamb_SpriteSheet_81: -6186144647024058850
+      LostLamb_SpriteSheet_82: -2267463931896910849
+      LostLamb_SpriteSheet_83: 6834292726445012412
+      LostLamb_SpriteSheet_84: 6804800803025577653
+      LostLamb_SpriteSheet_85: 2931096283898124493
+      LostLamb_SpriteSheet_86: -3046166113949487100
+      LostLamb_SpriteSheet_87: 6245757083109922664
+      LostLamb_SpriteSheet_88: -7647791709962532374
+      LostLamb_SpriteSheet_89: 2331044418845525088
+      LostLamb_SpriteSheet_9: 7868485683112144261
+      LostLamb_SpriteSheet_90: -4389615561843117814
+      LostLamb_SpriteSheet_91: 8711674912340995258
+      LostLamb_SpriteSheet_92: -1765079011469262471
+      LostLamb_SpriteSheet_93: -7554919055111747898
+      LostLamb_SpriteSheet_94: 7650085149286227184
+      LostLamb_SpriteSheet_95: 5850285629025624221
+      LostLamb_SpriteSheet_96: 4207298659134428656
+      LostLamb_SpriteSheet_97: 4304168444494069436
+      LostLamb_SpriteSheet_98: -317058239245409848
+      LostLamb_SpriteSheet_99: 5117381697881889753
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
