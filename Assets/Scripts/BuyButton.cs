@@ -1,5 +1,3 @@
-using System;
-using System.Linq;
 using System.Numerics;
 using TMPro;
 using UnityEngine;
@@ -51,7 +49,6 @@ public class BuyButton : MonoBehaviour
     {
         if (itemName.text.Contains("Slime"))
             return;
-        print(itemName.text);
 
         string[] splittedText = itemName.text.Split(" ");
 
@@ -102,6 +99,11 @@ public class BuyButton : MonoBehaviour
             UpdateItemLevel();
             audioSource.Play();
         }
+    }
+
+    public void RedeemMoney()
+    {
+        print(buttonText);
     }
 
     public void SetActive(bool active)
