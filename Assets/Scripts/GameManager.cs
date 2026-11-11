@@ -13,11 +13,12 @@ public class GameManager : MonoBehaviour
     private BigInteger powerClick = 1;
     private BigInteger autoClickQuantity = 0;
     private Dictionary<string, GameObject> slimePrefabs;
-
     private bool firstRareEgg = true;
 
     [SerializeField]
     private GameObject[] slimePrefabsList;
+    private int quantitySpecialSlime = 3;
+    private int quantityLeftToSpecialSlime = 9;
 
     TMP_Text moneyText;
     TMP_Text quantitySlimesText;
@@ -61,12 +62,32 @@ public class GameManager : MonoBehaviour
     {
         if (firstRareEgg)
         {
-            Instantiate(slimePrefabsList[0], slimes.transform);
+            int specialSlimeIndex = Random.Range(0, quantitySpecialSlime);
+            Instantiate(slimePrefabsList[specialSlimeIndex], slimes.transform);
             firstRareEgg = false;
             return;
         }
 
+        if (quantityLeftToSpecialSlime <= 0)
+        {
+            int specialSlimeIndex = Random.Range(0, quantitySpecialSlime);
+            Instantiate(slimePrefabsList[specialSlimeIndex], slimes.transform);
+            quantityLeftToSpecialSlime = 9;
+            return;
+        }
+
         int el = Random.Range(0, slimePrefabsList.Length);
+
+        // Usuario conseguiu um slime especial
+        if (el < quantitySpecialSlime)
+        {
+            quantityLeftToSpecialSlime = 9;
+        }
+        else
+        {
+            quantityLeftToSpecialSlime--;
+        }
+
         Instantiate(slimePrefabsList[el], slimes.transform);
         UpdateSlimeQuantityText();
     }
@@ -74,7 +95,12 @@ public class GameManager : MonoBehaviour
     public BigInteger GetMoneyPerClick(long baseValue)
     {
         // return baseValue * powerClick + 2;
-        return baseValue * powerClick + 2;
+        return baseValue * powerClick + 2000000000000000000;
+    }
+
+    public int getQuantityLeftToSpecialSlime()
+    {
+        return quantityLeftToSpecialSlime;
     }
 
     public void updateAutoClick()

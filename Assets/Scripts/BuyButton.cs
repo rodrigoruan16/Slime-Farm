@@ -1,3 +1,4 @@
+using System;
 using System.Linq;
 using System.Numerics;
 using TMPro;
@@ -92,6 +93,8 @@ public class BuyButton : MonoBehaviour
             else if (parent.tag == "RareEgg")
             {
                 gm.OpenRareEgg();
+                int qtyLeftToSpecialSlime = gm.getQuantityLeftToSpecialSlime();
+                itemName.text = itemName.text.Substring(0, itemName.text.Length - 1) + qtyLeftToSpecialSlime;
                 buttonText.text = (itemPrice * 2).ToString() + " Goo";
             }
 
