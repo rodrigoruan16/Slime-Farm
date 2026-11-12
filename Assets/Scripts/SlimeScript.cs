@@ -27,6 +27,7 @@ public class SlimeScript : MonoBehaviour
 
     private void OnMouseDown()
     {
+        gm.RegisterClick();
         gm.AddMoney(gm.GetMoneyPerClick(gooGenerated));
         audioSource.Play();
     }

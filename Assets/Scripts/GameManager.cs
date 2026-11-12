@@ -8,12 +8,22 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
     private float lastUpdate;
     private GameObject slimes;
-    private BigInteger money = 0;
+    private BigInteger money = 1000000000;
     private BigInteger maxSlimes = 10;
     private BigInteger powerClick = 1;
     private BigInteger autoClickQuantity = 0;
     private Dictionary<string, GameObject> slimePrefabs;
     private bool firstRareEgg = true;
+
+    // Estatísticas usadas pelas conquistas
+    private long totalClicks = 0;
+    private BigInteger totalGooEarned = 0;
+    private int upgradesBought = 0;
+    private int slotsBought = 0;
+    private int rareSlimesObtained = 0;
+
+    // Slimes já descobertos (nome do prefab, ex.: "BlueSlime"). Usado pela enciclopédia.
+    private HashSet<string> discoveredSlimes = new HashSet<string>();
 
     [SerializeField]
     private GameObject[] slimePrefabsList;
@@ -34,6 +44,12 @@ public class GameManager : MonoBehaviour
         {
             slimePrefabs.Add(slime.name + "Item", slime);
         }
+
+        // Slimes que já começam no prado (o verde inicial) contam como descobertos
+        foreach (Transform child in slimes.transform)
+        {
+            discoveredSlimes.Add(CleanSlimeName(child.name));
+        }
     }
 
     public BigInteger GetRemainingSlot()
@@ -44,6 +60,7 @@ public class GameManager : MonoBehaviour
     public void IncreaseSlot()
     {
         maxSlimes += 10;
+        slotsBought++;
         UpdateSlimeQuantityText();
     }
 
@@ -52,9 +69,31 @@ public class GameManager : MonoBehaviour
         quantitySlimesText.text = "Slimes: " + slimes.transform.childCount + " / " + maxSlimes;
     }
 
+    // Toda criação de slime passa por aqui, para registrar a descoberta
+    private void SpawnSlime(GameObject prefab)
+    {
+        Instantiate(prefab, slimes.transform);
+        discoveredSlimes.Add(prefab.name);
+    }
+
+    // "GreenSlime (1)" ou "GreenSlime(Clone)" -> "GreenSlime"
+    private string CleanSlimeName(string name)
+    {
+        name = name.Replace("(Clone)", "");
+        int index = name.IndexOf(" (");
+        if (index >= 0)
+            name = name.Substring(0, index);
+        return name.Trim();
+    }
+
+    public bool IsSlimeDiscovered(string slimeName)
+    {
+        return discoveredSlimes.Contains(slimeName);
+    }
+
     public void BuySlime(string slimeType)
     {
-        Instantiate(slimePrefabs[slimeType], slimes.transform);
+        SpawnSlime(slimePrefabs[slimeType]);
         UpdateSlimeQuantityText();
     }
 
@@ -63,16 +102,20 @@ public class GameManager : MonoBehaviour
         if (firstRareEgg)
         {
             int specialSlimeIndex = Random.Range(0, quantitySpecialSlime);
-            Instantiate(slimePrefabsList[specialSlimeIndex], slimes.transform);
+            SpawnSlime(slimePrefabsList[specialSlimeIndex]);
             firstRareEgg = false;
+            rareSlimesObtained++;
+            UpdateSlimeQuantityText();
             return;
         }
 
         if (quantityLeftToSpecialSlime <= 0)
         {
             int specialSlimeIndex = Random.Range(0, quantitySpecialSlime);
-            Instantiate(slimePrefabsList[specialSlimeIndex], slimes.transform);
+            SpawnSlime(slimePrefabsList[specialSlimeIndex]);
             quantityLeftToSpecialSlime = 9;
+            rareSlimesObtained++;
+            UpdateSlimeQuantityText();
             return;
         }
 
@@ -82,20 +125,20 @@ public class GameManager : MonoBehaviour
         if (el < quantitySpecialSlime)
         {
             quantityLeftToSpecialSlime = 9;
+            rareSlimesObtained++;
         }
         else
         {
             quantityLeftToSpecialSlime--;
         }
 
-        Instantiate(slimePrefabsList[el], slimes.transform);
+        SpawnSlime(slimePrefabsList[el]);
         UpdateSlimeQuantityText();
     }
 
     public BigInteger GetMoneyPerClick(long baseValue)
     {
-        // return baseValue * powerClick + 2;
-        return baseValue * powerClick + 2000000000000000000;
+        return baseValue * powerClick + 2;
     }
 
     public int getQuantityLeftToSpecialSlime()
@@ -106,11 +149,13 @@ public class GameManager : MonoBehaviour
     public void updateAutoClick()
     {
         autoClickQuantity++;
+        upgradesBought++;
     }
 
     public void updatePowerClick()
     {
         powerClick *= 2;
+        upgradesBought++;
     }
 
     public BigInteger GetTotalMoney()
@@ -123,9 +168,45 @@ public class GameManager : MonoBehaviour
         money -= amount;
     }
 
-    public void AddMoney(BigInteger moneyPerClick)
+    public void AddMoney(BigInteger amount)
     {
-        money += moneyPerClick;
+        money += amount;
+        totalGooEarned += amount;
+    }
+
+    public void RegisterClick()
+    {
+        totalClicks++;
+    }
+
+    public long GetTotalClicks()
+    {
+        return totalClicks;
+    }
+
+    public BigInteger GetTotalGooEarned()
+    {
+        return totalGooEarned;
+    }
+
+    public int GetUpgradesBought()
+    {
+        return upgradesBought;
+    }
+
+    public int GetSlotsBought()
+    {
+        return slotsBought;
+    }
+
+    public int GetRareSlimesObtained()
+    {
+        return rareSlimesObtained;
+    }
+
+    public int GetSlimeCount()
+    {
+        return slimes.transform.childCount;
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -145,7 +226,7 @@ public class GameManager : MonoBehaviour
                 foreach (Transform child in slimes.transform)
                 {
                     SlimeScript slime = child.GetComponent<SlimeScript>();
-                    money += autoClickQuantity * slime.GetGooGenerated();
+                    AddMoney(autoClickQuantity * slime.GetGooGenerated());
                 }
 
                 lastUpdate = Time.time;

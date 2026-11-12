@@ -1,12 +1,22 @@
-using System;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class GameSettings : MonoBehaviour
 {
+    [Header("Botão de som")]
+    [SerializeField] private Image soundButtonImage;  // Image do SoundButton
+    [SerializeField] private Sprite soundOnSprite;    // alto-falante normal
+    [SerializeField] private Sprite soundOffSprite;   // alto-falante riscado
+
+    private bool isMuted = false;
+
     public void MuteGame()
     {
-        AudioListener.volume = Math.Abs(AudioListener.volume - 1);
+        isMuted = !isMuted;
+        AudioListener.volume = isMuted ? 0f : 1f;
+
+        if (soundButtonImage != null)
+            soundButtonImage.sprite = isMuted ? soundOffSprite : soundOnSprite;
     }
 
     public void CloseGame()
@@ -15,16 +25,5 @@ public class GameSettings : MonoBehaviour
         UnityEditor.EditorApplication.isPlaying = false;
 #endif
         Application.Quit();
-    }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
     }
 }

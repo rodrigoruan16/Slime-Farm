@@ -224,7 +224,6 @@ GameObject:
   - component: {fileID: 4560449999458052177}
   - component: {fileID: 1477407900904816260}
   - component: {fileID: 8158541996414610158}
-  - component: {fileID: 1356268920967388798}
   m_Layer: 5
   m_Name: GetButton
   m_TagString: Untagged
@@ -346,18 +345,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 0
---- !u!114 &1356268920967388798
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5410741845777174941}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4ed133e37da44e5ca9fdb95f8ea6ee84, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::RedeemButton
 --- !u!1 &6627613582739706543
 GameObject:
   m_ObjectHideFlags: 0
@@ -644,6 +631,7 @@ GameObject:
   - component: {fileID: 8687224404148909267}
   - component: {fileID: 5429421356471123620}
   - component: {fileID: 4931148907839444710}
+  - component: {fileID: 6544022223901298112}
   m_Layer: 5
   m_Name: EncyclopediaItem
   m_TagString: ShopItem
@@ -809,3 +797,21 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &6544022223901298112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7863202394383382404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c30bd69cf24ac264c82166971608bb58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EncyclopediaEntry
+  slimePrefab: {fileID: 0}
+  displayName: 
+  description: 
+  reward: 500
+  revealedSprite: {fileID: 0}
+  lockedSprite: {fileID: 6531157596999860558, guid: 16387f52a29fdf4e4a9b163f86425ae9, type: 3}
